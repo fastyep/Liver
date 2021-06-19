@@ -1,0 +1,7 @@
+.idea
+.fake
+bin
+obj
+packages
+*.log
+*.db
